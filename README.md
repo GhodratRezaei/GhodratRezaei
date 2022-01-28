@@ -1,4 +1,4 @@
--  👋 Hi, I’m @GhodratRezaei, graduated Data Science Student at Politecnico di Milano University.
+-  👋 Hi, I’m GhodratRezaei, graduated Data Science Student at Politecnico di Milano University.
 -  I’m interested in Data Science and Computer Vision.
 -  Main programming languages which I am using for Data Science subject are python, java, MATLAB, SQL and NoSQL(NEO4j,
 MongoDB, cassandra, Kibana), Hadoop, PostMan API.

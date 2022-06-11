@@ -3,7 +3,7 @@
 -  Main programming languages for the projects are python(Numpy, Pandas, TensorFlow, PyTorch, Snap7, openCV), java, MATLAB, SQL and NoSQL(NEO4j,
 MongoDB, cassandra, Kibana), Hadoop, PostMan API.
 -  For the Computer Vision subjects, projects have been done using classical Computer Vision technoques( python(openCV),
-MATLAB, photomodeller,...) and Artificial Intelligence( Deep Learning Approaches( Object detection(YOLOv3, YOLOv4,YOLOv5),
+MATLAB, photomodeller,Agisoft Metashape, Laser Scanner, CloudComapre, ...) and Artificial Intelligence( Deep Learning Approaches( Object detection(YOLOv3, YOLOv4,YOLOv5),
 Semantic segmentation, instance segmentation, ...)
 -  I am looking forward to hear from you for any collaboration.
 

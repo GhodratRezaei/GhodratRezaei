@@ -46,10 +46,10 @@ Semantic segmentation, instance segmentation, ...)
       
       
       ### Supervised Learning (Classification and Regression)
-      *    [Vehicle Insurance Classification]()
-      *    [Transcoding Processing Time Regression]()
-      *    [Binary Classification]()
-      *    [Predictive Maintenance]()
+      *    [Vehicle Insurance Classification](https://github.com/GhodratRezaei/vehicle-Insurance-Classification-)
+      *    [Transcoding Processing Time Regression](https://github.com/GhodratRezaei/transcoding-processing-time-Regression)
+      *    [Binary Classification](https://github.com/GhodratRezaei/Binary-Classification)
+      *    [Predictive Maintenance](https://github.com/GhodratRezaei/Predictive-Maintenance-)
 
      
       
@@ -63,7 +63,7 @@ Semantic segmentation, instance segmentation, ...)
       *    [Time Series Classification](https://github.com/GhodratRezaei/Time-Series-Classification)
       *    [Environmental Sensors Forecasting](https://github.com/GhodratRezaei/Environmental-Sensors-Forecasting)
       *    [Forecasting](https://github.com/GhodratRezaei/Forecasting)
-      *    
+      
       
       
       
@@ -74,10 +74,12 @@ Semantic segmentation, instance segmentation, ...)
       
       
       ### Data Management 
-      *   []
+      *   [Covid Certificate Data Management](https://github.com/GhodratRezaei/Covid-Certificate-Data-Management)
+      *   [Corona virus Trace Track Contacts](https://github.com/GhodratRezaei/Corona-virus-Trace-Track-Contacts)
       
       
       ### Data Visualization 
+      *   [Data Visuaz=lization in Dashboard](https://github.com/GhodratRezaei/Data-Visuaz-lization-in-Dashboard)
       
       
       

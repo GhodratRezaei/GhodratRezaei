@@ -33,28 +33,30 @@ Semantic segmentation, instance segmentation, ...)
       
       
       
-      ## Natural Language Processing 
+      ### Natural Language Processing 
       
       
       
       
-      ## Supervised Learning (Classification and Regression)
+      ### Supervised Learning (Classification and Regression)
       
       
       
       
       
       
-      ## Time Series Forecasting 
+      ### Time Series Forecasting 
       
       
       
       
-      ## Reinforcement Learning
+      ### Reinforcement Learning
       
       
       
-      ## Data Management 
+      ### Data Management 
+      
+      ### Data Visualization 
       
       
       

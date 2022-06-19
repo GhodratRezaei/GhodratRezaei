@@ -7,6 +7,7 @@ MATLAB, photomodeller,Agisoft Metashape, Laser Scanner, CloudComapre, ...) and A
 Semantic segmentation, instance segmentation, ...)
 -  I am looking forward to hear from you for any collaboration.
 
+
 -   CONTACT: 
 
       Linkedin:  www.linkedin.com/in/ghodrat-rezaei       
@@ -14,4 +15,36 @@ Semantic segmentation, instance segmentation, ...)
       Phone Number:   +393894652863
       
       
-      # Projects
+      ## Computer Vision 
+      
+      
+      
+      
+      
+      ## Natural Language Processing 
+      
+      
+      
+      
+      ## Supervised Learning (Classification and Regression)
+      
+      
+      
+      
+      
+      
+      ## Time Series Forecasting 
+      
+      
+      
+      
+      ## Reinforcement Learning
+      
+      
+      
+      ## Data Management 
+      
+      
+      
+      
+      

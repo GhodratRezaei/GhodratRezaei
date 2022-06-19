@@ -25,6 +25,7 @@ Semantic segmentation, instance segmentation, ...)
        *  [Coursera_TensorFlow_Advanced_Techniques_Specialization]()
        *  [Motion and Object Detection]()
        *  
+       *  
 
       
       
@@ -53,7 +54,10 @@ Semantic segmentation, instance segmentation, ...)
       
       
       
-      ### Data Management 
+      ## Data Management 
+      
+      
+      
       
       
       

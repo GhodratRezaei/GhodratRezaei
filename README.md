@@ -12,3 +12,6 @@ Semantic segmentation, instance segmentation, ...)
       Linkedin:  www.linkedin.com/in/ghodrat-rezaei       
       Email:  ghodrat.rezaei@mail.polimi.it  ___  ghodratrezaei1996@gmail.com  
       Phone Number:   +393894652863
+      
+      
+      # Projects

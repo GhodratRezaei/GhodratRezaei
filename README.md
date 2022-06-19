@@ -20,31 +20,31 @@ Semantic segmentation, instance segmentation, ...)
       
       
       
-      ### Computer Vision 
+      ## Computer Vision 
       
       
       
       
       
       
-      ### Natural Language Processing 
+      ## Natural Language Processing 
       
       
       
       
-      ### Supervised Learning (Classification and Regression)
+      ## Supervised Learning (Classification and Regression)
       
       
       
       
       
       
-      ### Time Series Forecasting 
+      ## Time Series Forecasting 
       
       
       
       
-      ### Reinforcement Learning
+      ## Reinforcement Learning
       
       
       

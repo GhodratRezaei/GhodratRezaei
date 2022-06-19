@@ -15,34 +15,39 @@ Semantic segmentation, instance segmentation, ...)
       Phone Number:   +393894652863
       
       
-      ## Computer Vision 
+      # Repositories based on concepts
       
       
       
-      
-      
-      ## Natural Language Processing 
-      
-      
-      
-      
-      ## Supervised Learning (Classification and Regression)
+      # Computer Vision 
       
       
       
       
       
       
-      ## Time Series Forecasting 
+      # Natural Language Processing 
       
       
       
       
-      ## Reinforcement Learning
+      # Supervised Learning (Classification and Regression)
       
       
       
-      ## Data Management 
+      
+      
+      
+      # Time Series Forecasting 
+      
+      
+      
+      
+      # Reinforcement Learning
+      
+      
+      
+      # Data Management 
       
       
       

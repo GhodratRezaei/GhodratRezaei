@@ -26,7 +26,8 @@ Semantic segmentation, instance segmentation, ...)
        *  [Coursera Deep Learning Specialization]()
        *  [AutoEncoding]()
        *  [Motion and Object Detection]()
-       *  Leaf Classification
+       *  [Leaf Classification]()
+       
 
       
       

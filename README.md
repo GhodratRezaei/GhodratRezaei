@@ -21,12 +21,14 @@ Semantic segmentation, instance segmentation, ...)
       
       
       ## Computer Vision 
-       *  [Vehicle Detection and Speed Estimation]()
-       *  [Coursera_TensorFlow_Advanced_Techniques_Specialization]()
-       *  [Coursera Deep Learning Specialization]()
-       *  [AutoEncoding]()
-       *  [Motion and Object Detection]()
-       *  [Leaf Classification]()
+       *  [Vehicle Detection and Speed Estimation](https://github.com/GhodratRezaei/Visual-Analysis-of-Moving-Vehicles)
+       *  [Coursera_TensorFlow_Advanced_Techniques_Specialization](https://github.com/GhodratRezaei/Coursera_TensorFlow_Advanced_Techniques_Specialization)
+       *  [Coursera Deep Learning Specialization](https://github.com/GhodratRezaei/Coursera-Deep-Learning-Specialization)
+       *  [AutoEncoding](https://github.com/GhodratRezaei/Autoencoding)
+       *  [Motion Analysis and Object Detection](https://github.com/GhodratRezaei/Object-Detection-and-Motion-Analysis)
+       *  [Leaf Classification](https://github.com/GhodratRezaei/leaf-Classification)
+       *  [MultiClass Segmentation](https://github.com/GhodratRezaei/MultiClass-Segmentation)
+       *   [CIFAR  DataBase Clasification](https://github.com/GhodratRezaei/CIFAR-DataBase-Clasification)
        
 
       
@@ -36,27 +38,44 @@ Semantic segmentation, instance segmentation, ...)
       
       
       ### Natural Language Processing 
+      *   [Advancd Natural Prpcessing](https://github.com/GhodratRezaei/Advance-Natural-Language-Processing-)
+      
+      
       
       
       
       
       ### Supervised Learning (Classification and Regression)
+      *    [Vehicle Insurance Classification]()
+      *    [Transcoding Processing Time Regression]()
+      *    [Binary Classification]()
+      *    [Predictive Maintenance]()
+
+     
       
       
       
       
       
       
-      ### Time Series Forecasting 
+      ### Time Series 
+      *    [Stream Flow forecast](https://github.com/GhodratRezaei/Streamflow-forecast)
+      *    [Time Series Classification](https://github.com/GhodratRezaei/Time-Series-Classification)
+      *    [Environmental Sensors Forecasting](https://github.com/GhodratRezaei/Environmental-Sensors-Forecasting)
+      *    [Forecasting](https://github.com/GhodratRezaei/Forecasting)
+      *    
       
       
       
       
       ### Reinforcement Learning
+      *   [Dam and Stream Flow Analysis and Control](https://github.com/GhodratRezaei/Dam-and-Streamflow-Analysis-and-Control-)
       
       
       
       ### Data Management 
+      *   []
+      
       
       ### Data Visualization 
       

@@ -16,11 +16,16 @@ Semantic segmentation, instance segmentation, ...)
       
       
       # Repositories based on concepts
-      *  ddfdfd
+     
       
       
       
       ## Computer Vision 
+       *  [Vehicle Detection and Speed Estimation]()
+       *  [Coursera_TensorFlow_Advanced_Techniques_Specialization]()
+       *  [Motion and Object Detection]()
+       *  
+
       
       
       

@@ -23,9 +23,10 @@ Semantic segmentation, instance segmentation, ...)
       ## Computer Vision 
        *  [Vehicle Detection and Speed Estimation]()
        *  [Coursera_TensorFlow_Advanced_Techniques_Specialization]()
+       *  [Coursera Deep Learning Specialization]()
+       *  [AutoEncoding]()
        *  [Motion and Object Detection]()
-       *  
-       *  
+       *  Leaf Classification
 
       
       

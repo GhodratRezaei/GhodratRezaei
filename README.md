@@ -78,7 +78,7 @@ MongoDB, cassandra, Kibana), Hadoop, PostMan API.
       
       
       ### Data Visualization 
-      *   [Data Visuaz=lization in Dashboard](https://github.com/GhodratRezaei/Data-Visuaz-lization-in-Dashboard)
+      *   [Data Visualization in Dashboard](https://github.com/GhodratRezaei/Data-Visuaz-lization-in-Dashboard)
       
       
       

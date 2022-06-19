@@ -38,7 +38,7 @@ Semantic segmentation, instance segmentation, ...)
       
       
       ### Natural Language Processing 
-      *   [Advancd Natural Prpcessing](https://github.com/GhodratRezaei/Advance-Natural-Language-Processing-)
+      *   [Advancd Natural Processing Specialization](https://github.com/GhodratRezaei/Advance-Natural-Language-Processing-)
       
       
       

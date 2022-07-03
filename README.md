@@ -24,7 +24,7 @@ MongoDB, cassandra, Kibana), Hadoop, PostMan API.
        *  [Coursera_TensorFlow_Advanced_Techniques_Specialization](https://github.com/GhodratRezaei/Coursera_TensorFlow_Advanced_Techniques_Specialization)
        *  [Coursera Deep Learning Specialization](https://github.com/GhodratRezaei/Coursera-Deep-Learning-Specialization)
        *  [AutoEncoding](https://github.com/GhodratRezaei/Autoencoding)
-       *  [Motion Analysis and Object Detection](https://github.com/GhodratRezaei/Object-Detection-and-Motion-Analysis)
+       *  [Ectruded tail Detetion and Tracking](https://github.com/GhodratRezaei/Extruded_Tail_Detection)
        *  [Leaf Classification](https://github.com/GhodratRezaei/leaf-Classification)
        *  [MultiClass Segmentation](https://github.com/GhodratRezaei/MultiClass-Segmentation)
        *   [CIFAR  DataBase Clasification](https://github.com/GhodratRezaei/CIFAR-DataBase-Clasification)

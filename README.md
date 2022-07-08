@@ -29,6 +29,7 @@ MongoDB, cassandra, Kibana), Hadoop, PostMan API.
        *  [MultiClass Segmentation](https://github.com/GhodratRezaei/MultiClass-Segmentation)
        *  [CIFAR  DataBase Clasification](https://github.com/GhodratRezaei/CIFAR-DataBase-Clasification)
        *  [Circles Alignment Checking](https://github.com/GhodratRezaei/Circles-Alignment-Checking-)
+       *  [Forging Press Extraction and Dimension Analysis](https://github.com/GhodratRezaei/Extraction-and-Dimenstion-Analysis-of-Forging-press)
        
 
       

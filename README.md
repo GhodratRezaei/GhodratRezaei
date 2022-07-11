@@ -49,7 +49,7 @@ MongoDB, cassandra, Kibana), Hadoop, PostMan API.
       ### Supervised Learning (Classification and Regression)
       *    [Vehicle Insurance Classification](https://github.com/GhodratRezaei/vehicle-Insurance-Classification-)
       *    [Transcoding Processing Time Regression](https://github.com/GhodratRezaei/transcoding-processing-time-Regression)
-      *    [Binary Classification](https://github.com/GhodratRezaei/Binary-Classification)
+      *    [Binary Classification(Loan Allowance)](https://github.com/GhodratRezaei/Binary-Classification-Loan-Allowance-)
       *    [Predictive Maintenance](https://github.com/GhodratRezaei/Predictive-Maintenance-)
 
      

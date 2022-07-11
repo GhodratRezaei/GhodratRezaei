@@ -50,7 +50,7 @@ MongoDB, cassandra, Kibana), Hadoop, PostMan API.
       *    [Vehicle Insurance Classification](https://github.com/GhodratRezaei/vehicle-Insurance-Classification-)
       *    [Transcoding Processing Time Regression](https://github.com/GhodratRezaei/transcoding-processing-time-Regression)
       *    [Binary Classification(Loan Allowance)](https://github.com/GhodratRezaei/Binary-Classification-Loan-Allowance-)
-      *    [Predictive Maintenance](https://github.com/GhodratRezaei/Predictive-Maintenance-)
+      *    [Predictive Maintenance(Fault Detection)](https://github.com/GhodratRezaei/Predictive-Maintenance--Fault_Detection-)
 
      
       

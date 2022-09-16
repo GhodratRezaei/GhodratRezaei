@@ -1,4 +1,4 @@
--  👋 Hi, I’m GhodratRezaei, Computer Vision Engineer at [Danieli Group](https://www.danieli.com/) and graduated Data Science Student at [Politecnico di Milano University](https://www.polimi.it/)
+-  👋 Hi, I’m GhodratRezaei, Computer Vision Engineer at [Danieli Group](https://www.danieli.com/) and graduated Computer Science Student at [Politecnico di Milano University](https://www.polimi.it/)
 -  I’m interested in Data Science and Machine Learning.
 -   Projects done are in the following areas; Automation and Control(PLC ), Reinforcement Learning (Parameter Optimization, Genetic Algorithm, ... ), Supervised Learning(Prediction, Regression, Time Series Forecasting) and Unsupervised Learning ( Clustering, anomaly detection, Neural Network, Embedding, Generative Networks, ... ), NLP, Recommender Algorithm, Computer Vision and Image Analysis(Classical Approaches and AI Methods(image Segmentation, Object Detection,...)), Robotics and Data Base Management and Application. 
 -  Main programming languages for the projects are python(Numpy, Pandas, TensorFlow, PyTorch, Snap7, openCV, dash, ...), java, MATLAB, SQL and NoSQL(NEO4j,

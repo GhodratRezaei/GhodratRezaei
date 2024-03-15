@@ -2,8 +2,8 @@
 -  I’m interested in Data Science and Machine Learning.
 -   Projects were done in the following areas; 
 
-Computer Vision and Image Analysis (Classical Approaches and Artificial Intelligence approahes (Object Detection, image Segmentation, ...)), Robotics, Reinforcement Learning (Parameter Optimization, Genetic Algorithm, ... ), Automation and Control(PLC), Software Developement, ML Supervised Learning(Prediction, Regression, Time Series Forecasting) and Unsupervised Learning ( Clustering, anomaly detection, Neural Network, Embedding, Generative Networks, ... ), NLP, Recommender Algorithm, and Data Base Management and Application. 
--  Main programming languages for the projects are python(Numpy, Pandas, TensorFlow, PyTorch, Snap7, openCV, dash, ...), java, MATLAB, SQL and NoSQL(NEO4j,
+Computer Vision and Image Analysis (Classical Approaches and Artificial Intelligence approahes (Object Detection, image Segmentation, ...)), Robotics, Reinforcement Learning (Parameter Optimization, Genetic Algorithm, ... ), Automation and Control(PLC), Software Developement, ML Supervised Learning(Prediction, Regression, Time Series Forecasting), ML Unsupervised Learning ( Clustering, anomaly detection, Neural Network, Embedding, Generative Networks, ... ), NLP, Recommender Algorithm, and Data Base Management and Application. 
+-  Main programming languages for the projects: python(Numpy, Pandas, TensorFlow, PyTorch, Snap7, openCV, dash, ...), java, MATLAB, SQL and NoSQL(NEO4j,
 MongoDB, cassandra, Kibana), Hadoop, PostMan API.
 
 

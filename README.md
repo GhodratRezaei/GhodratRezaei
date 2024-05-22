@@ -25,7 +25,7 @@ MATLAB,VBA, C, C++, Python (Pandas, PyTorch,TensorFlow, TFLite, TensorRT, PyCUDA
       
       
       ### Computer Vision
-       *  [Glove Gesture Recognition](https://github.com/GhodratRezaei/Glove-Gesture-Recognition)
+       *  [Industrial Glove Gesture Recognition](https://github.com/GhodratRezaei/Glove-Gesture-Recognition)
        *  [Vehicle Detection and Speed Estimation](https://github.com/GhodratRezaei/Visual-Analysis-of-Moving-Vehicles)
        *  [Ectruded tail Detetion and Tracking](https://github.com/GhodratRezaei/Extruded_Tail_Detection_and_Tracking)
        *  [Coursera_TensorFlow_Advanced_Techniques_Specialization](https://github.com/GhodratRezaei/Coursera_TensorFlow_Advanced_Techniques_Specialization)

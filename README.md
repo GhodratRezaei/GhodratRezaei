@@ -36,52 +36,49 @@ MATLAB,VBA, C, C++, Python (Pandas, PyTorch,TensorFlow, TFLite, TensorRT, PyCUDA
        *  [CIFAR  DataBase Clasification](https://github.com/GhodratRezaei/CIFAR-DataBase-Clasification)
        *  [Circles Alignment Checking](https://github.com/GhodratRezaei/Circles-Alignment-Checking-)
        *  [Forging Press Extraction and Dimension Analysis](https://github.com/GhodratRezaei/Extraction-and-Dimenstion-Analysis-of-Forging-press)
-       
 
-      
-      
-      
-      
-      
-      ### Natural Language Processing 
-      *   [Advancd Natural Processing Specialization](https://github.com/GhodratRezaei/Advance-Natural-Language-Processing-)
-      
-      
-      
-      
-      
-      
-      ### Supervised Learning (Classification and Regression)
+
+
+
+
+     ### Data Management and Control
+      *   [Open Die Forging Press Program Management Application](https://github.com/GhodratRezaei/Forging-Press-Program)
+      *   [Extrusion Press Process Management and control Application](https://github.com/GhodratRezaei/PLC-Automatic-Data-PipeLine)
+      *   [Open Die Forging Press Columns Bending Tension Measurement](https://github.com/GhodratRezaei/Sensor)
+      *   [Covid Certificate Data Management](https://github.com/GhodratRezaei/Covid-Certificate-Data-Management)
+      *   [Corona virus Trace Track Contacts](https://github.com/GhodratRezaei/Corona-virus-Trace-Track-Contacts)
+
+
+
+
+
+     ### Supervised Learning (Classification and Regression)
       *    [Vehicle Insurance Classification](https://github.com/GhodratRezaei/vehicle-Insurance-Classification-)
       *    [Transcoding Processing Time Regression](https://github.com/GhodratRezaei/transcoding-processing-time-Regression)
       *    [Binary Classification(Loan Allowance)](https://github.com/GhodratRezaei/Binary-Classification-Loan-Allowance-)
       *    [Predictive Maintenance(Fault Detection)](https://github.com/GhodratRezaei/Predictive-Maintenance--Fault_Detection-)
 
-     
-      
-      
-      
-      
-      
-      
-      ### Time Series 
+
+
+
+     ### Time Series 
       *    [Stream Flow forecast](https://github.com/GhodratRezaei/Streamflow-forecast)
       *    [Time Series Classification](https://github.com/GhodratRezaei/Time-Series-Classification)
       *    [Environmental Sensors Forecasting](https://github.com/GhodratRezaei/Environmental-Sensors-Forecasting)
       *    [Forecasting](https://github.com/GhodratRezaei/Forecasting)
-      
-      
 
-      
+
+
+
+     ### Natural Language Processing 
+      *   [Advancd Natural Processing Specialization](https://github.com/GhodratRezaei/Advance-Natural-Language-Processing-)
+
+
+
       ### Reinforcement Learning
       *   [Dam and Stream Flow Analysis and Control](https://github.com/GhodratRezaei/Dam-and-Streamflow-Analysis-and-Control-)
-      
-      
-      
-      ### Data Management 
-      *   [Covid Certificate Data Management](https://github.com/GhodratRezaei/Covid-Certificate-Data-Management)
-      *   [Corona virus Trace Track Contacts](https://github.com/GhodratRezaei/Corona-virus-Trace-Track-Contacts)
-      
+
+
       
       ### Data Visualization 
       *   [Data Visualization in Dashboard](https://github.com/GhodratRezaei/Data-Visuaz-lization-in-Dashboard)

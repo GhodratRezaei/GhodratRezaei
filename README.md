@@ -1,12 +1,8 @@
 -  👋 Hi, I’m GhodratRezaei, Computer Vision Engineer at [Danieli Group](https://www.danieli.com/) and graduated Msc. Computer Science Student at [Politecnico di Milano University](https://www.polimi.it/)
--  I’m interested in Data Science and Machine Learning.
 
 -   Projects were done in the following areas; 
-      Computer Vision and Image Analysis (Classical Approaches and Artificial Intelligence approahes (Object Detection, image Segmentation, ...)), Robotics, Reinforcement Learning (Parameter Optimization, Genetic Algorithm, ... ), Automation and Control(PLC), Software 
-      Developement, ML Supervised Learning(Prediction, Regression, Time Series Forecasting), ML Unsupervised Learning ( Clustering, anomaly detection, Neural Network, Embedding, Generative Networks, ... ), NLP, Recommender Algorithm, and Data Base Management and 
-      Application. 
--  Main programming languages for the projects: python(Numpy, Pandas, TensorFlow, PyTorch, Snap7, openCV, dash, ...), java, MATLAB, SQL and NoSQL(NEO4j,
-MongoDB, cassandra, Kibana), Hadoop, PostMan API.
+      Computer Vision and Image Analysis (Classical Approaches and Artificial Intelligence approahes (Object Detection, image Segmentation, ...)), Robotics, Reinforcement Learning (Parameter Optimization, Genetic Algorithm, ... ), Automation and Control, Software Dvelopement, ML Supervised Learning(Prediction, Regression, Time Series Forecasting), ML Unsupervised Learning ( Clustering, anomaly detection, Neural Network, Embedding, Generative Networks, ... ), NLP, Recommender Algorithm, and Data Base Management and Application. 
+-  Main programming languages for the projects: 
 
 
 
@@ -26,20 +22,20 @@ MongoDB, cassandra, Kibana), Hadoop, PostMan API.
       
       
       
-      ### Computer Vision 
+      ### Computer Vision
+       *  [Glove Gesture Recognition](https://github.com/GhodratRezaei/Glove-Gesture-Recognition)
        *  [Vehicle Detection and Speed Estimation](https://github.com/GhodratRezaei/Visual-Analysis-of-Moving-Vehicles)
+       *  [Ectruded tail Detetion and Tracking](https://github.com/GhodratRezaei/Extruded_Tail_Detection_and_Tracking)
        *  [Coursera_TensorFlow_Advanced_Techniques_Specialization](https://github.com/GhodratRezaei/Coursera_TensorFlow_Advanced_Techniques_Specialization)
        *  [Coursera Deep Learning Specialization](https://github.com/GhodratRezaei/Coursera-Deep-Learning-Specialization)
-       *  [AutoEncoding](https://github.com/GhodratRezaei/Autoencoding)
-       *  [Ectruded tail Detetion and Tracking](https://github.com/GhodratRezaei/Extruded_Tail_Detection)
        *  [Leaf Classification](https://github.com/GhodratRezaei/leaf-Classification)
+       *  [AutoEncoding](https://github.com/GhodratRezaei/Autoencoding)
        *  [MultiClass Segmentation](https://github.com/GhodratRezaei/MultiClass-Segmentation)
        *  [CIFAR  DataBase Clasification](https://github.com/GhodratRezaei/CIFAR-DataBase-Clasification)
        *  [Circles Alignment Checking](https://github.com/GhodratRezaei/Circles-Alignment-Checking-)
        *  [Forging Press Extraction and Dimension Analysis](https://github.com/GhodratRezaei/Extraction-and-Dimenstion-Analysis-of-Forging-press)
        
 
-      
       
       
       
@@ -73,8 +69,7 @@ MongoDB, cassandra, Kibana), Hadoop, PostMan API.
       *    [Forecasting](https://github.com/GhodratRezaei/Forecasting)
       
       
-      
-      
+
       
       ### Reinforcement Learning
       *   [Dam and Stream Flow Analysis and Control](https://github.com/GhodratRezaei/Dam-and-Streamflow-Analysis-and-Control-)

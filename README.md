@@ -1,9 +1,9 @@
 -  👋 Hi, I’m GhodratRezaei, Computer Vision Engineer at [Danieli Group](https://www.danieli.com/) and graduated Msc. Computer Science Student at [Politecnico di Milano University](https://www.polimi.it/)
 
--   Projects were done in the following areas; 
-      Computer Vision and Image Analysis (Classical Approaches and Artificial Intelligence approahes (Object Detection, image Segmentation, ...)), Robotics, Reinforcement Learning (Parameter Optimization, Genetic Algorithm, ... ), Automation and Control, Software Dvelopement, ML Supervised Learning(Prediction, Regression, Time Series Forecasting), ML Unsupervised Learning ( Clustering, anomaly detection, Neural Network, Embedding, Generative Networks, ... ), NLP, Recommender Algorithm, and Data Base Management and Application. 
+-   Projects were done in the following areas;
+-   Computer Vision and Image Analysis (Classical Approaches and Artificial Intelligence approahes (Object Detection, image Segmentation, ...)), Robotics, Reinforcement Learning (Parameter Optimization, Genetic Algorithm, ... ), Automation and Control, Software Dvelopement, ML Supervised Learning(Prediction, Regression, Time Series Forecasting), ML Unsupervised Learning ( Clustering, anomaly detection, Neural Network, Embedding, Generative Networks, ... ), NLP, Recommender Algorithm, and Data Base Management and Application. 
 -  Main programming languages for the projects:
-  MATLAB,VBA, C, C++, Python (Pandas, PyTorch,TensorFlow, TFLite, TensorRT, PyCUDA, seaborn,SciPy,scikit-learn, Matplotlib, openCV, Django, Flask, Selenium, socket, PyQT5, Tkinter, PyInstaller, snap7, pycomm3, opcua),
+-  MATLAB,VBA, C, C++, Python (Pandas, PyTorch,TensorFlow, TFLite, TensorRT, PyCUDA, seaborn,SciPy,scikit-learn, Matplotlib, openCV, Django, Flask, Selenium, socket, PyQT5, Tkinter, PyInstaller, snap7, pycomm3, opcua),
  CSS, HTML, SQL,NoSQL (Neo4j, MongoDB, Cassandra), PostgreSQL, InfluxDB, PLC (TiaPortal (LAD, SCL) - Rockwell (LAD))
 
 

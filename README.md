@@ -25,9 +25,9 @@ MATLAB,VBA, C, C++, Python (Pandas, PyTorch,TensorFlow, TFLite, TensorRT, PyCUDA
       
       
       ### Computer Vision
-       *  [Industrial Glove Gesture Recognition   [**Private**]](https://github.com/GhodratRezaei/Glove-Gesture-Recognition)
+       *  [Industrial Glove Gesture Recognition         [**Private**]](https://github.com/GhodratRezaei/Glove-Gesture-Recognition)
        *  [Vehicle Detection and Speed Estimation](https://github.com/GhodratRezaei/Visual-Analysis-of-Moving-Vehicles)
-       *  [Ectruded tail Detetion and Tracking](https://github.com/GhodratRezaei/Extruded_Tail_Detection_and_Tracking)
+       *  [Ectruded tail Detetion and Tracking         [**Private**]](https://github.com/GhodratRezaei/Extruded_Tail_Detection_and_Tracking)
        *  [Coursera_TensorFlow_Advanced_Techniques_Specialization](https://github.com/GhodratRezaei/Coursera_TensorFlow_Advanced_Techniques_Specialization)
        *  [Coursera Deep Learning Specialization](https://github.com/GhodratRezaei/Coursera-Deep-Learning-Specialization)
        *  [Leaf Classification](https://github.com/GhodratRezaei/leaf-Classification)
@@ -42,9 +42,9 @@ MATLAB,VBA, C, C++, Python (Pandas, PyTorch,TensorFlow, TFLite, TensorRT, PyCUDA
 
 
      ### Data Management and Control
-      *   [Open Die Forging Press Program Management Application](https://github.com/GhodratRezaei/Forging-Press-Program)
-      *   [Extrusion Press Process Management and control Application](https://github.com/GhodratRezaei/PLC-Automatic-Data-PipeLine)
-      *   [Open Die Forging Press Columns Bending Tension Measurement](https://github.com/GhodratRezaei/Sensor)
+      *   [Open Die Forging Press Program Management Application         [**Private**]](https://github.com/GhodratRezaei/Forging-Press-Program)
+      *   [Extrusion Press Process Management and control Application         [**Private**]](https://github.com/GhodratRezaei/PLC-Automatic-Data-PipeLine)
+      *   [Open Die Forging Press Columns Bending Tension Measurement         [**Private**]](https://github.com/GhodratRezaei/Sensor)
       *   [Covid Certificate Data Management](https://github.com/GhodratRezaei/Covid-Certificate-Data-Management)
       *   [Corona virus Trace Track Contacts](https://github.com/GhodratRezaei/Corona-virus-Trace-Track-Contacts)
 

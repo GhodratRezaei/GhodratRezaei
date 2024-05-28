@@ -42,9 +42,9 @@ MATLAB,VBA, C, C++, Python (Pandas, PyTorch,TensorFlow, TFLite, TensorRT, PyCUDA
 
 
      ### Data Management and Control
-      *   [Open Die Forging Press Program Management Application         **(Private)**](https://github.com/GhodratRezaei/Forging-Press-Program)
+      *   [Advanced Forging Press Program and Data Management Application         **(Private)**](https://github.com/GhodratRezaei/Forging-Press-Program)
       *   [Extrusion Press Process and Data Analysis Application         **(Private)**](https://github.com/GhodratRezaei/PLC-Automatic-Data-PipeLine)
-      *   [Open Die Forging Press Columns Bending Tension Measurement         **(Private)**](https://github.com/GhodratRezaei/Sensor)
+      *   [Forging Press Columns Bending Tension Measurement         **(Private)**](https://github.com/GhodratRezaei/Sensor)
       *   [Covid Certificate Data Management](https://github.com/GhodratRezaei/Covid-Certificate-Data-Management)
       *   [Corona virus Trace Track Contacts](https://github.com/GhodratRezaei/Corona-virus-Trace-Track-Contacts)
 

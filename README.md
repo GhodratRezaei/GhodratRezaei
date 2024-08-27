@@ -41,6 +41,9 @@ MATLAB,VBA, C, C++, Python (Pandas, PyTorch,TensorFlow, TFLite, TensorRT, PyCUDA
        *  [<img src="https://github.com/user-attachments/assets/f01eeb85-250a-4b93-9ddb-10a34b6db37d" width="4%"> Danieli Group    -    Forging Press Extraction and Dimension Analysis](https://github.com/GhodratRezaei/Extraction-and-Dimenstion-Analysis-of-Forging-press)
 
 
+          <br>
+          <br>
+
 
 
      ### Process Control and system & Data Management 
@@ -56,6 +59,8 @@ MATLAB,VBA, C, C++, Python (Pandas, PyTorch,TensorFlow, TFLite, TensorRT, PyCUDA
 
 
 
+          <br>
+          <br>
 
 
      ### Supervised Learning (Classification and Regression)
@@ -74,23 +79,30 @@ MATLAB,VBA, C, C++, Python (Pandas, PyTorch,TensorFlow, TFLite, TensorRT, PyCUDA
       *    [<img src="https://github.com/user-attachments/assets/67b9777c-7a5b-4ac2-8d2c-7aba02f23e90" width="10%"> Politecnico di Milano    -    Forecasting](https://github.com/GhodratRezaei/Forecasting)
 
 
+          <br>
+          <br>
 
 
      ### Natural Language Processing 
       *   [Advancd Natural Processing Specialization](https://github.com/GhodratRezaei/Advance-Natural-Language-Processing-)
 
 
+          <br>
+          <br>
 
       ### Reinforcement Learning
       *   [<img src="https://github.com/user-attachments/assets/67b9777c-7a5b-4ac2-8d2c-7aba02f23e90" width="10%"> Politecnico di Milano    -    Dam and Stream Flow Analysis and Control](https://github.com/GhodratRezaei/Dam-and-Streamflow-Analysis-and-Control-)
 
 
+          <br>
+          <br>
       
       ### Data Visualization 
       *   [Data Visualization in Dashboard](https://github.com/GhodratRezaei/Data-Visuaz-lization-in-Dashboard)
       
       
-      
+     
+
       
       
       

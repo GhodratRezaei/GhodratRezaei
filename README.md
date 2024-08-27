@@ -71,8 +71,11 @@ MATLAB,VBA, C, C++, Python (Pandas, PyTorch,TensorFlow, TFLite, TensorRT, PyCUDA
 
      ### Supervised Learning (Classification and Regression)
       *    [<img src="https://github.com/user-attachments/assets/67b9777c-7a5b-4ac2-8d2c-7aba02f23e90" width="10%"> Politecnico di Milano    -    Vehicle Insurance Classification](https://github.com/GhodratRezaei/vehicle-Insurance-Classification-)
+            <br>
       *    [<img src="https://github.com/user-attachments/assets/67b9777c-7a5b-4ac2-8d2c-7aba02f23e90" width="10%"> Politecnico di Milano    -    Transcoding Processing Time Regression](https://github.com/GhodratRezaei/transcoding-processing-time-Regression)
+            <br>
       *    [<img src="https://github.com/user-attachments/assets/67b9777c-7a5b-4ac2-8d2c-7aba02f23e90" width="10%"> Politecnico di Milano    -    Binary Classification(Loan Allowance)](https://github.com/GhodratRezaei/Binary-Classification-Loan-Allowance-)
+            <br>
       *    [<img src="https://github.com/user-attachments/assets/67b9777c-7a5b-4ac2-8d2c-7aba02f23e90" width="10%"> Politecnico di Milano    -    Predictive Maintenance(Fault Detection)](https://github.com/GhodratRezaei/Predictive-Maintenance--Fault_Detection-)
 
 
@@ -84,8 +87,11 @@ MATLAB,VBA, C, C++, Python (Pandas, PyTorch,TensorFlow, TFLite, TensorRT, PyCUDA
 
      ### Time Series 
       *    [<img src="https://github.com/user-attachments/assets/67b9777c-7a5b-4ac2-8d2c-7aba02f23e90" width="10%"> Politecnico di Milano    -    Stream Flow forecast](https://github.com/GhodratRezaei/Streamflow-forecast)
+           <br>
       *    [<img src="https://github.com/user-attachments/assets/67b9777c-7a5b-4ac2-8d2c-7aba02f23e90" width="10%"> Politecnico di Milano    -    Time Series Classification](https://github.com/GhodratRezaei/Time-Series-Classification)
+           <br>
       *    [<img src="https://github.com/user-attachments/assets/67b9777c-7a5b-4ac2-8d2c-7aba02f23e90" width="10%"> Politecnico di Milano    -    Environmental Sensors Forecasting](https://github.com/GhodratRezaei/Environmental-Sensors-Forecasting)
+           <br>
       *    [<img src="https://github.com/user-attachments/assets/67b9777c-7a5b-4ac2-8d2c-7aba02f23e90" width="10%"> Politecnico di Milano    -    Forecasting](https://github.com/GhodratRezaei/Forecasting)
 
 

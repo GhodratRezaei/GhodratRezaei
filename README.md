@@ -39,7 +39,9 @@ MATLAB,VBA, C, C++, Python (Pandas, PyTorch,TensorFlow, TFLite, TensorRT, PyCUDA
 
 
 
-
+<img src="https://github.com/user-attachments/assets/17dd2064-3f65-4237-8021-9de42ba54361" width="50%">
+<!-- ![logo](https://github.com/user-attachments/assets/17dd2064-3f65-4237-8021-9de42ba54361)
+ -->
 
      ### Data Management and Control
       *   [![favicon](https://github.com/user-attachments/assets/72e5f43a-999d-425a-addd-a273bc52c690) Advanced Forging Press Program and Data Management Application         **(Private)**](https://github.com/GhodratRezaei/Forging-Press-Program)

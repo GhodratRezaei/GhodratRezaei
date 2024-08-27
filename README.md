@@ -41,8 +41,8 @@ MATLAB,VBA, C, C++, Python (Pandas, PyTorch,TensorFlow, TFLite, TensorRT, PyCUDA
        *  [<img src="https://github.com/user-attachments/assets/f01eeb85-250a-4b93-9ddb-10a34b6db37d" width="4%"> Danieli Group    -    Forging Press Extraction and Dimension Analysis](https://github.com/GhodratRezaei/Extraction-and-Dimenstion-Analysis-of-Forging-press)
 
 
-          <br>
-          <br>
+     <br>
+     <br>
 
 
 

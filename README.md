@@ -33,9 +33,9 @@ MATLAB,VBA, C, C++, Python (Pandas, PyTorch,TensorFlow, TFLite, TensorRT, PyCUDA
           <br>
        *  [Coursera_TensorFlow_Advanced_Techniques_Specialization](https://github.com/GhodratRezaei/Coursera_TensorFlow_Advanced_Techniques_Specialization)
        *  [Coursera Deep Learning Specialization](https://github.com/GhodratRezaei/Coursera-Deep-Learning-Specialization)
-       *  [Leaf Classification](https://github.com/GhodratRezaei/leaf-Classification)
-       *  [AutoEncoding](https://github.com/GhodratRezaei/Autoencoding)
-       *  [MultiClass Segmentation](https://github.com/GhodratRezaei/MultiClass-Segmentation)
+       *  [<img src="https://github.com/user-attachments/assets/67b9777c-7a5b-4ac2-8d2c-7aba02f23e90" width="10%"> Politecnico di Milano    -    Leaf Classification](https://github.com/GhodratRezaei/leaf-Classification)
+       *  [<img src="https://github.com/user-attachments/assets/67b9777c-7a5b-4ac2-8d2c-7aba02f23e90" width="10%"> Politecnico di Milano    -    AutoEncoding](https://github.com/GhodratRezaei/Autoencoding)
+       *  [<img src="https://github.com/user-attachments/assets/67b9777c-7a5b-4ac2-8d2c-7aba02f23e90" width="10%"> Politecnico di Milano    -    MultiClass Segmentation](https://github.com/GhodratRezaei/MultiClass-Segmentation)
        *  [CIFAR  DataBase Clasification](https://github.com/GhodratRezaei/CIFAR-DataBase-Clasification)
        *  [Circles Alignment Checking](https://github.com/GhodratRezaei/Circles-Alignment-Checking-)
        *  [<img src="https://github.com/user-attachments/assets/f01eeb85-250a-4b93-9ddb-10a34b6db37d" width="4%"> Danieli Group    -    Forging Press Extraction and Dimension Analysis](https://github.com/GhodratRezaei/Extraction-and-Dimenstion-Analysis-of-Forging-press)
@@ -51,27 +51,27 @@ MATLAB,VBA, C, C++, Python (Pandas, PyTorch,TensorFlow, TFLite, TensorRT, PyCUDA
       *   [<img src="https://github.com/user-attachments/assets/f01eeb85-250a-4b93-9ddb-10a34b6db37d" width="4%"> Danieli Group    -    Extrusion Press Process and Data Analysis Application         **(Private)**](https://github.com/GhodratRezaei/PLC-Automatic-Data-PipeLine)
         <br>
       *   [<img src="https://github.com/user-attachments/assets/f01eeb85-250a-4b93-9ddb-10a34b6db37d" width="4%"> Danieli Group    -    Forging Press Columns Bending Tension Measurement         **(Private)**](https://github.com/GhodratRezaei/Sensor)
-      *   [Covid Certificate Data Management](https://github.com/GhodratRezaei/Covid-Certificate-Data-Management)
-      *   [Corona virus Trace Track Contacts](https://github.com/GhodratRezaei/Corona-virus-Trace-Track-Contacts)
+      *   [<img src="https://github.com/user-attachments/assets/67b9777c-7a5b-4ac2-8d2c-7aba02f23e90" width="10%"> Politecnico di Milano    -    Covid Certificate Data Management](https://github.com/GhodratRezaei/Covid-Certificate-Data-Management)
+      *   [<img src="https://github.com/user-attachments/assets/67b9777c-7a5b-4ac2-8d2c-7aba02f23e90" width="10%"> Politecnico di Milano    -    Corona virus Trace Track Contacts](https://github.com/GhodratRezaei/Corona-virus-Trace-Track-Contacts)
 
 
 
 
 
      ### Supervised Learning (Classification and Regression)
-      *    [Vehicle Insurance Classification](https://github.com/GhodratRezaei/vehicle-Insurance-Classification-)
-      *    [Transcoding Processing Time Regression](https://github.com/GhodratRezaei/transcoding-processing-time-Regression)
-      *    [Binary Classification(Loan Allowance)](https://github.com/GhodratRezaei/Binary-Classification-Loan-Allowance-)
-      *    [Predictive Maintenance(Fault Detection)](https://github.com/GhodratRezaei/Predictive-Maintenance--Fault_Detection-)
+      *    [<img src="https://github.com/user-attachments/assets/67b9777c-7a5b-4ac2-8d2c-7aba02f23e90" width="10%"> Politecnico di Milano    -    Vehicle Insurance Classification](https://github.com/GhodratRezaei/vehicle-Insurance-Classification-)
+      *    [<img src="https://github.com/user-attachments/assets/67b9777c-7a5b-4ac2-8d2c-7aba02f23e90" width="10%"> Politecnico di Milano    -    Transcoding Processing Time Regression](https://github.com/GhodratRezaei/transcoding-processing-time-Regression)
+      *    [<img src="https://github.com/user-attachments/assets/67b9777c-7a5b-4ac2-8d2c-7aba02f23e90" width="10%"> Politecnico di Milano    -    Binary Classification(Loan Allowance)](https://github.com/GhodratRezaei/Binary-Classification-Loan-Allowance-)
+      *    [<img src="https://github.com/user-attachments/assets/67b9777c-7a5b-4ac2-8d2c-7aba02f23e90" width="10%"> Politecnico di Milano    -    Predictive Maintenance(Fault Detection)](https://github.com/GhodratRezaei/Predictive-Maintenance--Fault_Detection-)
 
 
 
 
      ### Time Series 
-      *    [Stream Flow forecast](https://github.com/GhodratRezaei/Streamflow-forecast)
-      *    [Time Series Classification](https://github.com/GhodratRezaei/Time-Series-Classification)
-      *    [Environmental Sensors Forecasting](https://github.com/GhodratRezaei/Environmental-Sensors-Forecasting)
-      *    [Forecasting](https://github.com/GhodratRezaei/Forecasting)
+      *    [<img src="https://github.com/user-attachments/assets/67b9777c-7a5b-4ac2-8d2c-7aba02f23e90" width="10%"> Politecnico di Milano    -    Stream Flow forecast](https://github.com/GhodratRezaei/Streamflow-forecast)
+      *    [<img src="https://github.com/user-attachments/assets/67b9777c-7a5b-4ac2-8d2c-7aba02f23e90" width="10%"> Politecnico di Milano    -    Time Series Classification](https://github.com/GhodratRezaei/Time-Series-Classification)
+      *    [<img src="https://github.com/user-attachments/assets/67b9777c-7a5b-4ac2-8d2c-7aba02f23e90" width="10%"> Politecnico di Milano    -    Environmental Sensors Forecasting](https://github.com/GhodratRezaei/Environmental-Sensors-Forecasting)
+      *    [<img src="https://github.com/user-attachments/assets/67b9777c-7a5b-4ac2-8d2c-7aba02f23e90" width="10%"> Politecnico di Milano    -    Forecasting](https://github.com/GhodratRezaei/Forecasting)
 
 
 
@@ -82,7 +82,7 @@ MATLAB,VBA, C, C++, Python (Pandas, PyTorch,TensorFlow, TFLite, TensorRT, PyCUDA
 
 
       ### Reinforcement Learning
-      *   [Dam and Stream Flow Analysis and Control](https://github.com/GhodratRezaei/Dam-and-Streamflow-Analysis-and-Control-)
+      *   [<img src="https://github.com/user-attachments/assets/67b9777c-7a5b-4ac2-8d2c-7aba02f23e90" width="10%"> Politecnico di Milano    -    Dam and Stream Flow Analysis and Control](https://github.com/GhodratRezaei/Dam-and-Streamflow-Analysis-and-Control-)
 
 
       

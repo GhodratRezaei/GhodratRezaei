@@ -25,9 +25,9 @@ MATLAB,VBA, C, C++, Python (Pandas, PyTorch,TensorFlow, TFLite, TensorRT, PyCUDA
       
       
       ### Computer Vision
-       *  [Industrial Glove Gesture Recognition         **(Private)**](https://github.com/GhodratRezaei/Glove-Gesture-Recognition)
+       *  [<img src="https://github.com/user-attachments/assets/f01eeb85-250a-4b93-9ddb-10a34b6db37d" width="4%"> Danieli Group    -    Industrial Glove Gesture Recognition         **(Private)**](https://github.com/GhodratRezaei/Glove-Gesture-Recognition)
        *  [Vehicle Detection and Speed Estimation](https://github.com/GhodratRezaei/Visual-Analysis-of-Moving-Vehicles)
-       *  [Ectruded tail Detetion and Tracking         **(Private)**](https://github.com/GhodratRezaei/Extruded_Tail_Detection_and_Tracking)
+       *  [<img src="https://github.com/user-attachments/assets/f01eeb85-250a-4b93-9ddb-10a34b6db37d" width="4%"> Danieli Group    -    Ectruded tail Detetion and Tracking         **(Private)**](https://github.com/GhodratRezaei/Extruded_Tail_Detection_and_Tracking)
        *  [Coursera_TensorFlow_Advanced_Techniques_Specialization](https://github.com/GhodratRezaei/Coursera_TensorFlow_Advanced_Techniques_Specialization)
        *  [Coursera Deep Learning Specialization](https://github.com/GhodratRezaei/Coursera-Deep-Learning-Specialization)
        *  [Leaf Classification](https://github.com/GhodratRezaei/leaf-Classification)
@@ -35,19 +35,17 @@ MATLAB,VBA, C, C++, Python (Pandas, PyTorch,TensorFlow, TFLite, TensorRT, PyCUDA
        *  [MultiClass Segmentation](https://github.com/GhodratRezaei/MultiClass-Segmentation)
        *  [CIFAR  DataBase Clasification](https://github.com/GhodratRezaei/CIFAR-DataBase-Clasification)
        *  [Circles Alignment Checking](https://github.com/GhodratRezaei/Circles-Alignment-Checking-)
-       *  [Forging Press Extraction and Dimension Analysis](https://github.com/GhodratRezaei/Extraction-and-Dimenstion-Analysis-of-Forging-press)
+       *  [<img src="https://github.com/user-attachments/assets/f01eeb85-250a-4b93-9ddb-10a34b6db37d" width="4%"> Danieli Group    -    Forging Press Extraction and Dimension Analysis](https://github.com/GhodratRezaei/Extraction-and-Dimenstion-Analysis-of-Forging-press)
 
 
 
 
      ### Data Management and Control
-      *   [Advanced Forging Press Program and Data Management Application         **(Private)**](https://github.com/GhodratRezaei/Forging-Press-Program)
-        <br>
+      *   [<img src="https://github.com/user-attachments/assets/f01eeb85-250a-4b93-9ddb-10a34b6db37d" width="4%"> Danieli Group    -    Advanced Forging Press Program and Data Management Application         **(Private)**](https://github.com/GhodratRezaei/Forging-Press-Program)
         <br>
       *   [<img src="https://github.com/user-attachments/assets/f01eeb85-250a-4b93-9ddb-10a34b6db37d" width="4%"> Danieli Group    -    Extrusion Press Process and Data Analysis Application         **(Private)**](https://github.com/GhodratRezaei/PLC-Automatic-Data-PipeLine)
         <br>
-        <br>
-      *   [Forging Press Columns Bending Tension Measurement         **(Private)**](https://github.com/GhodratRezaei/Sensor)
+      *   [<img src="https://github.com/user-attachments/assets/f01eeb85-250a-4b93-9ddb-10a34b6db37d" width="4%"> Danieli Group    -    Forging Press Columns Bending Tension Measurement         **(Private)**](https://github.com/GhodratRezaei/Sensor)
       *   [Covid Certificate Data Management](https://github.com/GhodratRezaei/Covid-Certificate-Data-Management)
       *   [Corona virus Trace Track Contacts](https://github.com/GhodratRezaei/Corona-virus-Trace-Track-Contacts)
 

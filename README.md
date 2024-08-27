@@ -26,8 +26,8 @@ MATLAB,VBA, C, C++, Python (Pandas, PyTorch,TensorFlow, TFLite, TensorRT, PyCUDA
       
       ### Computer Vision
        *  [<img src="https://github.com/user-attachments/assets/f01eeb85-250a-4b93-9ddb-10a34b6db37d" width="4%"> Danieli Group    -    Industrial Glove Gesture Recognition         **(Private)**](https://github.com/GhodratRezaei/Glove-Gesture-Recognition)
-       *  [Vehicle Detection and Speed Estimation](https://github.com/GhodratRezaei/Visual-Analysis-of-Moving-Vehicles)
        *  [<img src="https://github.com/user-attachments/assets/f01eeb85-250a-4b93-9ddb-10a34b6db37d" width="4%"> Danieli Group    -    Ectruded tail Detetion and Tracking         **(Private)**](https://github.com/GhodratRezaei/Extruded_Tail_Detection_and_Tracking)
+       *  [Vehicle Detection and Speed Estimation](https://github.com/GhodratRezaei/Visual-Analysis-of-Moving-Vehicles)
        *  [Coursera_TensorFlow_Advanced_Techniques_Specialization](https://github.com/GhodratRezaei/Coursera_TensorFlow_Advanced_Techniques_Specialization)
        *  [Coursera Deep Learning Specialization](https://github.com/GhodratRezaei/Coursera-Deep-Learning-Specialization)
        *  [Leaf Classification](https://github.com/GhodratRezaei/leaf-Classification)
@@ -40,7 +40,7 @@ MATLAB,VBA, C, C++, Python (Pandas, PyTorch,TensorFlow, TFLite, TensorRT, PyCUDA
 
 
 
-     ### Data Management and Control
+     ### Process Control and system & Data Management 
       *   [<img src="https://github.com/user-attachments/assets/f01eeb85-250a-4b93-9ddb-10a34b6db37d" width="4%"> Danieli Group    -    Advanced Forging Press Program and Data Management Application         **(Private)**](https://github.com/GhodratRezaei/Forging-Press-Program)
         <br>
       *   [<img src="https://github.com/user-attachments/assets/f01eeb85-250a-4b93-9ddb-10a34b6db37d" width="4%"> Danieli Group    -    Extrusion Press Mouth Protection Application         **(Private)**](https://github.com/GhodratRezaei/extrusion-press-mouth-protection-app)

@@ -68,6 +68,10 @@ MATLAB,VBA, C, C++, Python (Pandas, PyTorch,TensorFlow, TFLite, TensorRT, PyCUDA
 
 
 
+          <br>
+          <br>
+          
+
 
      ### Time Series 
       *    [<img src="https://github.com/user-attachments/assets/67b9777c-7a5b-4ac2-8d2c-7aba02f23e90" width="10%"> Politecnico di Milano    -    Stream Flow forecast](https://github.com/GhodratRezaei/Streamflow-forecast)
@@ -75,9 +79,10 @@ MATLAB,VBA, C, C++, Python (Pandas, PyTorch,TensorFlow, TFLite, TensorRT, PyCUDA
       *    [<img src="https://github.com/user-attachments/assets/67b9777c-7a5b-4ac2-8d2c-7aba02f23e90" width="10%"> Politecnico di Milano    -    Environmental Sensors Forecasting](https://github.com/GhodratRezaei/Environmental-Sensors-Forecasting)
       *    [<img src="https://github.com/user-attachments/assets/67b9777c-7a5b-4ac2-8d2c-7aba02f23e90" width="10%"> Politecnico di Milano    -    Forecasting](https://github.com/GhodratRezaei/Forecasting)
 
-        <br>
-        <br>
 
+          <br>
+          <br>
+          
 
      ### Natural Language Processing 
       *   [Advancd Natural Processing Specialization](https://github.com/GhodratRezaei/Advance-Natural-Language-Processing-)

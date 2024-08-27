@@ -26,9 +26,9 @@ MATLAB,VBA, C, C++, Python (Pandas, PyTorch,TensorFlow, TFLite, TensorRT, PyCUDA
 
       
       ### Computer Vision
-       *  [<img src="https://github.com/user-attachments/assets/f01eeb85-250a-4b93-9ddb-10a34b6db37d" width="4%"> Danieli Group    -    Industrial Glove Gesture Recognition         **(Private)**](https://github.com/GhodratRezaei/Glove-Gesture-Recognition)
+       *  [<img src="https://github.com/user-attachments/assets/f01eeb85-250a-4b93-9ddb-10a34b6db37d" width="4%"> Danieli Group    -    Industrial Glove Gesture Recognition Application        **(Private)**](https://github.com/GhodratRezaei/Glove-Gesture-Recognition)
           <br>
-       *  [<img src="https://github.com/user-attachments/assets/f01eeb85-250a-4b93-9ddb-10a34b6db37d" width="4%"> Danieli Group    -    Ectruded tail Detetion and Tracking         **(Private)**](https://github.com/GhodratRezaei/Extruded_Tail_Detection_and_Tracking)
+       *  [<img src="https://github.com/user-attachments/assets/f01eeb85-250a-4b93-9ddb-10a34b6db37d" width="4%"> Danieli Group    -    Aluminium Ectruded tail Detetion and Tracking         **(Private)**](https://github.com/GhodratRezaei/Extruded_Tail_Detection_and_Tracking)
          <br>
        *  [<img src="https://github.com/user-attachments/assets/f01eeb85-250a-4b93-9ddb-10a34b6db37d" width="4%"> Danieli Group    -    Forging Press Extraction and Dimension Analysis         **(Private)**](https://github.com/GhodratRezaei/Extraction-and-Dimenstion-Analysis-of-Forging-press)
          <br>

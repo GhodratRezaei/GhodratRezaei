@@ -27,7 +27,7 @@ MATLAB,VBA, C, C++, Python (Pandas, PyTorch,TensorFlow, TFLite, TensorRT, PyCUDA
       ### Computer Vision
        *  [<img src="https://github.com/user-attachments/assets/f01eeb85-250a-4b93-9ddb-10a34b6db37d" width="4%"> Danieli Group    -    Industrial Glove Gesture Recognition         **(Private)**](https://github.com/GhodratRezaei/Glove-Gesture-Recognition)
        *  [<img src="https://github.com/user-attachments/assets/f01eeb85-250a-4b93-9ddb-10a34b6db37d" width="4%"> Danieli Group    -    Ectruded tail Detetion and Tracking         **(Private)**](https://github.com/GhodratRezaei/Extruded_Tail_Detection_and_Tracking)
-       *  [Vehicle Detection and Speed Estimation](https://github.com/GhodratRezaei/Visual-Analysis-of-Moving-Vehicles)
+       *  [<img src="https://github.com/user-attachments/assets/14891a1f-bac9-4166-b995-27429c06d24f" width="4%"> Politecnico di Milano    -    Vehicle Detection and Speed Estimation](https://github.com/GhodratRezaei/Visual-Analysis-of-Moving-Vehicles)
        *  [Coursera_TensorFlow_Advanced_Techniques_Specialization](https://github.com/GhodratRezaei/Coursera_TensorFlow_Advanced_Techniques_Specialization)
        *  [Coursera Deep Learning Specialization](https://github.com/GhodratRezaei/Coursera-Deep-Learning-Specialization)
        *  [Leaf Classification](https://github.com/GhodratRezaei/leaf-Classification)

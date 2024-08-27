@@ -27,17 +27,24 @@ MATLAB,VBA, C, C++, Python (Pandas, PyTorch,TensorFlow, TFLite, TensorRT, PyCUDA
       
       ### Computer Vision
        *  [<img src="https://github.com/user-attachments/assets/f01eeb85-250a-4b93-9ddb-10a34b6db37d" width="4%"> Danieli Group    -    Industrial Glove Gesture Recognition         **(Private)**](https://github.com/GhodratRezaei/Glove-Gesture-Recognition)
+          <br>
        *  [<img src="https://github.com/user-attachments/assets/f01eeb85-250a-4b93-9ddb-10a34b6db37d" width="4%"> Danieli Group    -    Ectruded tail Detetion and Tracking         **(Private)**](https://github.com/GhodratRezaei/Extruded_Tail_Detection_and_Tracking)
          <br>
        *  [<img src="https://github.com/user-attachments/assets/67b9777c-7a5b-4ac2-8d2c-7aba02f23e90" width="10%"> Politecnico di Milano    -    Vehicle Detection and Speed Estimation](https://github.com/GhodratRezaei/Visual-Analysis-of-Moving-Vehicles)
           <br>
        *  [Coursera_TensorFlow_Advanced_Techniques_Specialization](https://github.com/GhodratRezaei/Coursera_TensorFlow_Advanced_Techniques_Specialization)
+          <br>
        *  [Coursera Deep Learning Specialization](https://github.com/GhodratRezaei/Coursera-Deep-Learning-Specialization)
        *  [<img src="https://github.com/user-attachments/assets/67b9777c-7a5b-4ac2-8d2c-7aba02f23e90" width="10%"> Politecnico di Milano    -    Leaf Classification](https://github.com/GhodratRezaei/leaf-Classification)
+         <br>
        *  [<img src="https://github.com/user-attachments/assets/67b9777c-7a5b-4ac2-8d2c-7aba02f23e90" width="10%"> Politecnico di Milano    -    AutoEncoding](https://github.com/GhodratRezaei/Autoencoding)
+         <br>
        *  [<img src="https://github.com/user-attachments/assets/67b9777c-7a5b-4ac2-8d2c-7aba02f23e90" width="10%"> Politecnico di Milano    -    MultiClass Segmentation](https://github.com/GhodratRezaei/MultiClass-Segmentation)
+         <br>
        *  [CIFAR  DataBase Clasification](https://github.com/GhodratRezaei/CIFAR-DataBase-Clasification)
+         <br>
        *  [Circles Alignment Checking](https://github.com/GhodratRezaei/Circles-Alignment-Checking-)
+         <br>
        *  [<img src="https://github.com/user-attachments/assets/f01eeb85-250a-4b93-9ddb-10a34b6db37d" width="4%"> Danieli Group    -    Forging Press Extraction and Dimension Analysis](https://github.com/GhodratRezaei/Extraction-and-Dimenstion-Analysis-of-Forging-press)
          
      <br>

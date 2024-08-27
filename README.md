@@ -42,7 +42,8 @@ MATLAB,VBA, C, C++, Python (Pandas, PyTorch,TensorFlow, TFLite, TensorRT, PyCUDA
 
 
      ### Data Management and Control
-    ![logo](https://github.com/user-attachments/assets/63bec776-f55b-4c65-893a-e1634c5769bd)
+![favicon](https://github.com/user-attachments/assets/72e5f43a-999d-425a-addd-a273bc52c690)
+
 
       *   [Advanced Forging Press Program and Data Management Application         **(Private)**](https://github.com/GhodratRezaei/Forging-Press-Program)
       *   [Extrusion Press Process and Data Analysis Application         **(Private)**](https://github.com/GhodratRezaei/PLC-Automatic-Data-PipeLine)

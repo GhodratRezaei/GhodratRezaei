@@ -24,11 +24,12 @@ I enjoy working across the full problem—from understanding the process and col
 
 ## Technical toolkit
 
-- **Languages:** Python, TypeScript, C, C++, MATLAB, SQL.
-- **Vision & machine learning:** OpenCV, PyTorch, TensorFlow, scikit-learn, TensorRT.
-- **Applications & data:** Flask, Django, PyQt5, Pandas, PostgreSQL, InfluxDB, MongoDB, Neo4j, Cassandra.
-- **Industrial integration:** Siemens TIA Portal, Rockwell PLCs, OPC UA, Snap7, pycomm3.
-- **Cloud project work:** Azure Functions, Azure Service Bus, HTTP APIs.
+- **Software:** C#, .NET, ASP.NET Core, Blazor, Python, SQL, REST APIs.
+- **Cloud & DevOps:** AWS, CloudFormation, Terraform, Docker, Kubernetes/K3s, Helm, Azure DevOps, Flux CD.
+- **Industrial IoT & data:** AWS IoT Core, Greengrass, SiteWise, MQTT, PostgreSQL, SQL Server, InfluxDB, Grafana.
+- **Computer vision & Edge AI:** OpenCV, PyTorch, TensorFlow, YOLOv5, ONNX, TensorRT, NVIDIA Jetson.
+- **Automation & integration:** Siemens TIA Portal, Beckhoff TwinCAT 3, PLC/HMI integration, OPC UA, Snap7.
+- **Public project work:** TypeScript, Azure Functions, Azure Service Bus.
 
 ## Connect
 

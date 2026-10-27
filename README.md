@@ -10,7 +10,6 @@ Here you'll find public projects and experiments in software, cloud integration,
 
 | Project | Overview |
 | --- | --- |
-| [Battery Setpoint Forwarder](https://github.com/GhodratRezaei/ForwardBatterySetPoints) | A TypeScript and Azure Functions assignment that validates and transforms Service Bus messages and forwards battery setpoints to an HTTP API, with documented retry behaviour and limitations. |
 | [Vehicle Detection & Speed Estimation](https://github.com/GhodratRezaei/Visual-Analysis-of-Moving-Vehicles) | Computer vision project combining vehicle detection, tracking, counting, and speed estimation using classical techniques and YOLOv5. |
 | [Time-Series Classification](https://github.com/GhodratRezaei/Time-Series-Classification) | Machine learning work focused on classifying time-series data. |
 | [Predictive Maintenance & Fault Detection](https://github.com/GhodratRezaei/Predictive-Maintenance--Fault_Detection-) | A project exploring machine learning for fault detection. |

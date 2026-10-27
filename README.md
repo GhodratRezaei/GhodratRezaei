@@ -18,7 +18,6 @@ I enjoy working across the full problem—from understanding the process and col
 
 | Project | Overview |
 | --- | --- |
-| [Battery Setpoint Forwarder](https://github.com/GhodratRezaei/ForwardBatterySetPoints) | A TypeScript and Azure Functions assignment that processes Service Bus messages, validates and transforms battery setpoints, and forwards them to an API. Includes documented retry behavior, design assumptions, and limitations. |
 | [Vehicle Detection & Speed Estimation](https://github.com/GhodratRezaei/Visual-Analysis-of-Moving-Vehicles) | Computer vision project combining vehicle detection, tracking, counting, and speed estimation using classical techniques and YOLOv5. |
 | [Time-Series Classification](https://github.com/GhodratRezaei/Time-Series-Classification) | Machine learning work focused on classifying time-series data. |
 | [Predictive Maintenance & Fault Detection](https://github.com/GhodratRezaei/Predictive-Maintenance--Fault_Detection-) | A project exploring machine learning for fault detection. |
@@ -35,7 +34,7 @@ I enjoy working across the full problem—from understanding the process and col
 
 I'm open to conversations about engineering opportunities and collaboration in software, industrial systems, computer vision, and data.
 
-[LinkedIn](https://www.linkedin.com/in/ghodrat-rezaei/) · [Personal email](mailto:ghodratrezaei1996@gmail.com) · [University email](mailto:ghodrat.rezaei@mail.polimi.it)
+[LinkedIn](https://www.linkedin.com/in/ghodrat-rezaei/) · [Personal email](mailto:ghodratrezaei1996@gmail.com) ·
 
 Phone: +39 389 465 2863
 

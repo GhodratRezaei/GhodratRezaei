@@ -36,7 +36,6 @@ I'm open to conversations about engineering opportunities and collaboration in s
 
 [LinkedIn](https://www.linkedin.com/in/ghodrat-rezaei/) · [Personal email](mailto:ghodratrezaei1996@gmail.com) ·
 
-Phone: +39 389 465 2863
 
 ---
 
